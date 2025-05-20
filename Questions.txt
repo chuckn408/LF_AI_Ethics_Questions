@@ -122,7 +122,22 @@ Assuming Asar’s team, upon evaluation, had become aware that their conversatio
     c. By devising a plan for resolving this issue
     d. By informing the developers who intend on using their open source product, so that they may be aware of this information and proceed as they wish (it’s the open source user’s responsibility now) 
 ################################################################################################################################################################################################################################################
+True or false: There’s a single clear and widely agreed-upon metric for evaluating fairness that Asar should have followed.
 
+    a. True
+    b. False
 ################################################################################################################################################################################################################################################
+How might Asar protect against ethical drift with regard to privacy? (Select all answers that apply)
 
+    a. By monitoring user consent and ensuring that users’ privacy is protected despite any changes that have been made since the product was deployed
+    b. By monitoring privacy techniques and checking for any data breaches that may compromise users’ privacy
+    c. By monitoring data to ensure that it’s accurate and representative of the user base
+    d. By monitoring the long-term wellbeing of the users
 ################################################################################################################################################################################################################################################
+At which stages should safeguards have been placed/checked for the open source conversational AI? (Select all answers that apply)
+
+    a. At the initial stage, when setting objectives and goals for the system
+    b. Prior to setting defaults for the conversational AI
+    c. Prior to publicly publishing the code
+    d. When creating a mental health app using the code
+    e. Upon retiring it 
