@@ -130,3 +130,8 @@ monitoring + privacy::
 
 monitoring + wellbeing::
 --short and long term impacts, societal expecatations
+
+Asar’s product manager, Mina
+two developers, Divya and Darnell
+programming whiz called Warda
+Harinder, an avid user of the app
